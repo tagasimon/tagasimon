@@ -2,7 +2,7 @@
 
 
  
-My Name is Simon Kazooba and i work as a Business Systems Analyst at [NICE](https://nice.co.ug) . I have three years of experience in R and SQL and about a year or two experience programming production level Shiny Applications and Dashaboards, with some skills in CSS/JS and Python.
+My Name is Simon Kazooba and i work as a Business Systems Analyst at [NICE HOUSE OF PLASTICS](https://nice.co.ug) . I have three years of experience in R and SQL and about a year or two experience programming production level Shiny Applications and Dashaboards, with some skills in CSS/JS and Python.
 
 I like writing,sharing my knowledge with the world via my Blog [simonsayz.xyz](http://simonsayz.xyz/)
 
