@@ -9,8 +9,8 @@ I like writing,sharing my knowledge with the world via my Blog [simonsayz.xyz](h
 
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Deep Learning with Keras and Pytouch
+- 🔭 I’m currently Learning Flutter and Dart
+- 🌱 I’m currently learning Deep Learning with Keras
 - 🤔 I’m currently open to new Opportunities #ONO
 - 💬 Ask me about R | Shiny | Tableau
 - 📫 How to reach me: [Github](https://github.com/tagasimon), [Blog](http://simonsayz.xyz/), [Twitter](https://twitter.com/simonsayzdgtl), [Linkedin](https://www.linkedin.com/in/simon-sayz/)
