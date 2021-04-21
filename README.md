@@ -12,5 +12,5 @@ I like writing,sharing my knowledge with the world via my Blog [simonsayz.xyz](h
 - 🔭 I’m currently Learning Flutter and Dart
 - 🌱 I’m currently learning Deep Learning with Keras
 - 🤔 I’m currently open to new Opportunities #ONO
-- 💬 Ask me about R | Shiny | Tableau
+- 💬 Ask me about Flutter | R | Shiny | Power BI 
 - 📫 How to reach me: [Github](https://github.com/tagasimon), [Blog](http://simonsayz.xyz/), [Twitter](https://twitter.com/simonsayzdgtl), [Linkedin](https://www.linkedin.com/in/simon-sayz/)
