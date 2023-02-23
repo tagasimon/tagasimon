@@ -7,7 +7,7 @@ My Name is Simon Kazooba and i work as a Business Systems Analyst & Software Eng
 I like writing,sharing my knowledge with the world via my Blog [simonsayz.pro](http://simonsayz.pro/)
 
 
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+<!-- <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150"> -->
 
 - 🔭 I’m currently Learning Flutter and Dart
 - 🌱 I’m currently learning Deep Learning with Keras
