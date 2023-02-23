@@ -14,3 +14,5 @@ I like writing,sharing my knowledge with the world via my Blog [simonsayz.pro](h
 - 🤔 I’m currently open to new Opportunities #ONO
 - 💬 Ask me about Flutter | R | Shiny | Power BI 
 - 📫 How to reach me: [Github](https://github.com/tagasimon), [Blog](http://simonsayz.pro/), [Twitter](https://twitter.com/simonsayzdotpro), [Linkedin](https://www.linkedin.com/in/simon-sayz/)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tagasimon&theme=dark)](https://git.io/streak-stats)
